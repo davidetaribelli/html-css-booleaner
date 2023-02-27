@@ -1,3 +1,4 @@
+
 header{
     width: 100%;
     background-image: url(../img/pattern.png);
@@ -9,7 +10,7 @@ header img{
     height: 170px;
 }
 
-main{
+main, footer{
     width: 900px;
     margin: auto;
 }
@@ -36,3 +37,45 @@ span .spancolor{
     font-size: 10px;
 }
 
+table{
+    width: 100%;
+}
+
+.table_prima{
+    background-color:deepskyblue;
+    color: white;
+}
+
+.table_colorata{
+    background-color: lightskyblue;
+}
+
+.table_colorata td{
+    width: 300px;
+}
+
+.table_bianca td{
+width: 300px;
+}
+
+.sottotitolo_footer{
+    color: grey;
+}
+
+.immagine_footer_1{
+    padding: 10px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px;
+}
+
+.immagine_footer_2{
+    padding: 10px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px;
+}
