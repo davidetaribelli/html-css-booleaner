@@ -9,9 +9,13 @@ header img{
     height: 170px;
 }
 
-.titolo{
-    width: 700px;
+main{
+    width: 900px;
     margin: auto;
+}
+
+.titolo h1{
+    font-size: 30px;
 }
 
 .titolo span{
@@ -20,4 +24,14 @@ header img{
 
 span .spancolor{
     color: deepskyblue;
+}
+
+.photo_tim img{ 
+    width: 400px;
+    height: 300px;
+    margin-top: 10px;
+}
+
+.descrizione{
+    font-size: 10px;
 }
