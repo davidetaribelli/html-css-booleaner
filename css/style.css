@@ -1,17 +1,17 @@
 
 header{
     width: 100%;
+    
     background-image: url(../img/pattern.png);
     background-color: steelblue;  
     background-position: top;
+    background-size: 17%;
 }
 
 header img{
-    width: 200px;
-    height: 125px;
-    position: relative;
-    top: 30px;
-    left: 250px;
+    height: 50px;
+    padding-top: 25px;
+   
 }
 
 main, footer{
