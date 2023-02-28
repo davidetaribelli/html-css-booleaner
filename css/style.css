@@ -43,23 +43,29 @@ span .spancolor{
 
 table{
     width: 100%;
+    border-collapse: collapse;
 }
 
-.table_prima{
-    background-color:deepskyblue;
+thead{
+    text-align: left;
+    border-collapse: collapse;
+    border-color: darkturquoise;
+    background-color: darkturquoise ;
     color: white;
 }
 
-.table_colorata{
-    background-color: lightskyblue;
+tbody .colorato{
+    text-align: left;
+    border-collapse: collapse;
+    border-color: lightblue;
+    background-color: lightblue;
+    color: white;
 }
 
-.table_colorata td{
+
+
+table td{
     width: 300px;
-}
-
-.table_bianca td{
-width: 300px;
 }
 
 .sottotitolo_footer{
