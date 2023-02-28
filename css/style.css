@@ -1,7 +1,6 @@
 
 header{
     width: 100%;
-    
     background-image: url(../img/pattern.png);
     background-color: steelblue;  
     background-position: top;
@@ -39,6 +38,10 @@ span .spancolor{
 
 .descrizione{
     font-size: 10px;
+}
+
+ul{
+    padding-left: 16px;
 }
 
 table{
