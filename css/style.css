@@ -45,8 +45,11 @@ ul{
 }
 
 table{
-    width: 100%;
     border-collapse: collapse;
+}
+
+.small{
+    width: 20%;
 }
 
 thead{
